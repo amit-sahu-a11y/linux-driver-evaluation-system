@@ -1,5 +1,6 @@
 # Evaluation metrics structure
 
+
 evaluation_metrics = {
     "compilation": {"success_rate": 0.0, "warnings_count": 0, "errors_count": 0},
     "functionality": {"basic_operations": 0.0, "error_handling": 0.0, "edge_cases": 0.0},
