@@ -1,6 +1,7 @@
 
 import subprocess
 
+
 def compile_code(path_to_c_file):
     try:
         result = subprocess.run(['gcc', '-Wall', path_to_c_file],
