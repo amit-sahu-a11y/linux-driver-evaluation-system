@@ -3,6 +3,7 @@
 import subprocess
 import os
 
+
 def run_clang_tidy(file_path, checks="*", export_fixes=False):
     """
     Runs clang-tidy on the provided C file.
