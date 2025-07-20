@@ -8,3 +8,4 @@ def run_static_checks(file_path):
     }
    
     return scores
+
